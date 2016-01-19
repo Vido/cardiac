@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Mon 18 Jan 2016 11:53:23 AM BRST
+
+BeginCmp
+TimeStamp = /569CDDCE;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE506;
+Reference = C1;
+ValeurCmp = 220uF;
+IdModule  = CP36V;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE50C;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE24A;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = CP4;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CDEB4;
+Reference = C5;
+ValeurCmp = 220uF;
+IdModule  = CP36V;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE1C2;
+Reference = C6;
+ValeurCmp = 47nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE3B8;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE3C6;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CDAAD;
+Reference = IC1;
+ValeurCmp = ATTINY45-P;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE30A;
+Reference = R1;
+ValeurCmp = 10R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CE033;
+Reference = R3;
+ValeurCmp = 10R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CDC90;
+Reference = SPEAKER1;
+ValeurCmp = 8R;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CDD9F;
+Reference = SW1;
+ValeurCmp = NF;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CDAE8;
+Reference = U1;
+ValeurCmp = LM7805;
+IdModule  = LM78XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /569CDABD;
+Reference = U2;
+ValeurCmp = LM386;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
