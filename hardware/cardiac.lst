@@ -1,0 +1,39 @@
+eeschema (2012-apr-16-27)-stable  >> Creation date: Tue 19 Jan 2016 10:13:48 AM BRST
+
+#Cmp ( order = Reference )
+| BT1        BATTERY     
+| C1         220uF       
+| C2         10uF        
+| C3         10uF        
+| C5         220uF       
+| C6         47nF        
+| C7         47nF        
+| D1         LED         
+| D2         LED         
+| IC1        ATTINY45-P  
+| R3         10R         
+| SPEAKER1   8R          
+| SW1        NF          
+| U1         LM7805      
+| U2         LM386       
+#End Cmp
+
+#Cmp ( order = Value )
+| 10R          R3        
+| 10uF         C2        
+| 10uF         C3        
+| 220uF        C1        
+| 220uF        C5        
+| 47nF         C6        
+| 47nF         C7        
+| 8R           SPEAKER1  
+| ATTINY45-P   IC1       
+| BATTERY      BT1       
+| LED          D1        
+| LED          D2        
+| LM386        U2        
+| LM7805       U1        
+| NF           SW1       
+#End Cmp
+
+#End List

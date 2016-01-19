@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Mon 18 Jan 2016 11:53:23 AM BRST
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 19 Jan 2016 10:51:49 AM BRST
 
 BeginCmp
 TimeStamp = /569CDDCE;
@@ -11,33 +11,40 @@ BeginCmp
 TimeStamp = /569CE506;
 Reference = C1;
 ValeurCmp = 220uF;
-IdModule  = CP36V;
+IdModule  = C2V10;
 EndCmp
 
 BeginCmp
 TimeStamp = /569CE50C;
 Reference = C2;
 ValeurCmp = 10uF;
-IdModule  = CP4;
+IdModule  = C1V8;
 EndCmp
 
 BeginCmp
 TimeStamp = /569CE24A;
 Reference = C3;
 ValeurCmp = 10uF;
-IdModule  = CP4;
+IdModule  = C1V8;
 EndCmp
 
 BeginCmp
 TimeStamp = /569CDEB4;
 Reference = C5;
 ValeurCmp = 220uF;
-IdModule  = CP36V;
+IdModule  = C2V10;
 EndCmp
 
 BeginCmp
 TimeStamp = /569CE1C2;
 Reference = C6;
+ValeurCmp = 47nF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /569D9B9A;
+Reference = C7;
 ValeurCmp = 47nF;
 IdModule  = C2;
 EndCmp
@@ -64,9 +71,9 @@ IdModule  = DIP-8__300;
 EndCmp
 
 BeginCmp
-TimeStamp = /569CE30A;
+TimeStamp = /569E2FDD;
 Reference = R1;
-ValeurCmp = 10R;
+ValeurCmp = 220R;
 IdModule  = R3;
 EndCmp
 
